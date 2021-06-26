@@ -23,3 +23,9 @@ WHEN YOU enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach you with additional questions
 WHEN YOU click on the links in the Table of Contents
 THEN YOU am taken to the corresponding section of the README
+
+## License & Copyright
+
+© Michayla Constantinou, The Coding Bootcamp
+
+Licensed under the [MIT License] (LICENSE).
