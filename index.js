@@ -31,6 +31,18 @@ const questions = [
         name: "usage",
         message: "Enter Project Usage: ",
     },
+    {
+        type: "list",
+        name: "license",
+        message: "Enter Project License: ",
+        choices: ["MIT",
+        "GNU GPL",
+        "Apache 2.0",
+        "Boost Software License 1.0",
+        "Mozilla",
+        "Open Software License 3.0",
+        "None",],
+    },
     
 ];
 
