@@ -51,13 +51,13 @@ const questions = [
     {
         type: "input",
         name: "tests",
-        message: "Provide Project Test, and Explain (if necessary) ",  
+        message: "Provide Project Test and Explain (if necessary) ",  
     },
     {
         type: "input",
         name: "userEmail",
-        message: "Please Enter Email "
-    }
+        message: "Enter Email "
+    },
 ];
 
 // TODO: Create a function to write README file
