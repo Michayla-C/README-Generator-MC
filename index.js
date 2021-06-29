@@ -26,6 +26,11 @@ const questions = [
         name: "installation",
         message: "Explain Install (if necessary) ",
     },
+    {
+        type: "input",
+        name: "usage",
+        message: "Enter Project Usage: ",
+    },
     
 ];
 
