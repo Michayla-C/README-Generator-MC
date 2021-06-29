@@ -16,7 +16,13 @@ const questions = [
         name: "title",
         message: "Enter Project Title: ", 
     },
-
+    {
+        type: "input",
+        name: "description",
+        message: "Enter Brief Project Description: ",
+        
+    },
+    
 ];
 
 // TODO: Create a function to write README file
