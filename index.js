@@ -20,7 +20,11 @@ const questions = [
         type: "input",
         name: "description",
         message: "Enter Brief Project Description: ",
-        
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "Explain Install (if necessary) ",
     },
     
 ];
