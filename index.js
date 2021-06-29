@@ -43,6 +43,11 @@ const questions = [
         "Open Software License 3.0",
         "None",],
     },
+    {
+        type: "input",
+        name: "contribute",
+        message: "Explain Contribute (if necessary) ",
+    },
     
 ];
 
