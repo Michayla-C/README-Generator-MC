@@ -14,7 +14,7 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Enter Project Title: ", 
+        message: "Enter Project Title: ",
     },
     {
         type: "input",
